@@ -19,4 +19,8 @@ Foo1 -> Foo6 : To collections
 @enduml
 ```
 
-![](./md-sample-sequence.svg)
+![](diagrams/md-sample-sequence.svg)
+
+Or testing whether it loads from a file
+
+![](diagrams/uml-sample-sequence.svg)
